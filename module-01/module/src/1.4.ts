@@ -1,7 +1,7 @@
 // premetive data type : number , string , boolean, null, undefined
 
 // emplicide and explicide type have 
-// 
+
 
 const numberType : number = 123;
 
